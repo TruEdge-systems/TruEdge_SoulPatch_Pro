@@ -1,3 +1,4 @@
+![TruEdge Architecture Map](docs/truedge_suite_map.svg)
 # TruEdge_SoulPatch_Pro# TruEdge_SoulPack_Pro 🎷
 _An expressive expansion for the TruEdge Pro™ Visual Suite_
 
